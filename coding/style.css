@@ -1,0 +1,71 @@
+body {
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+  font-family: 'Comic Neue';
+  }
+
+.contenitore{
+    width: 60%;
+    height: 40%;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+    border-radius: 20px;
+    padding: 60px;
+    }
+
+.contenitorelogo{
+  width: 250px;
+  margin: auto;
+  border: 20px;
+}
+
+.logo{
+  width: 250px;
+  display: block;
+ }
+
+.titolo{
+  color: #1eef1e;
+  font-size: 15px;
+  text-align: center;
+}
+
+.navigazione{
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #1eef1e;
+  width: auto;
+  text-align: center;
+}
+
+.infomonopattini{
+    color: white;
+}
+
+.selettore{
+ display: inline-block;
+}
+
+.caricagino{
+  width: 350px;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.caricamike{
+  width: 600px;
+  height: 30px;
+  background-color: #07b107;
+  border-radius: 5px;
+}
+
+.caricafede{
+  width: 150px;
+  height: 30px;
+  background-color: #bf3c3c;
+  border-radius: 5px;
+}
